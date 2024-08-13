@@ -10,5 +10,14 @@ npm-debug.*
 *.orig.*
 web-build/
 
+
+# Yarn and Modules
+node_modules/
+yarn.lock
+.yarn/
+
+# IDE
+.idea/
+
 # macOS
 .DS_Store
